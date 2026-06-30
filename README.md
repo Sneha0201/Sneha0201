@@ -50,6 +50,13 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sneha0201&theme=tokyonight"/>
 </p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha0201&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
 ## 📌 Featured Projects
 
 - 🗑️ BinBot - Smart Waste Segregation System
