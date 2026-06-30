@@ -47,6 +47,9 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha0201&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sneha0201&theme=tokyonight"/>
+</p>
 ## 📌 Featured Projects
 
 - 🗑️ BinBot - Smart Waste Segregation System
