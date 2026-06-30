@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Sneha Chaurasia
 
-<!--
-**Sneha0201/Sneha0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | IoT Enthusiast | Cybersecurity Learner
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (IoT & Cybersecurity)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Data Structures & Algorithms, Web Development, and Cybersecurity**
+
+💻 I enjoy solving programming problems using Python and building real-world projects.
+
+🎯 Goal: To become a Software Development Engineer.
+
+---
+
+## 🚀 Tech Stack
+
+- Python
+- C
+- C++
+- HTML
+- CSS
+- Git
+- GitHub
+- MySQL
+- ESP32
+- Arduino
+
+---
+
+## 📌 Featured Projects
+
+- 🗑️ BinBot - Smart Waste Segregation System
+- 🎓 Student Management System
+- 💪 Fitness Tracker
+- ⚙️ OS Algorithm Visualizer
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Sneha0201
+
+⭐ Thanks for visiting my profile!
